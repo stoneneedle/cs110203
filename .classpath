@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cs1102"/>
+	<classpathentry excluding="chapter2/|chapter4/|chapter6/|chapter8/|chapter10/|chapter12/|chapter1/|chapter3/|chapter5/|chapter7/|chapter9/|chapter11/|chapter13/" kind="src" path="eck8_source"/>
+	<classpathentry kind="src" path="eck8_source/chapter1"/>
+	<classpathentry kind="src" path="eck8_source/chapter10"/>
+	<classpathentry kind="src" path="eck8_source/chapter11"/>
+	<classpathentry kind="src" path="eck8_source/chapter12"/>
+	<classpathentry kind="src" path="eck8_source/chapter13"/>
+	<classpathentry kind="src" path="eck8_source/chapter2"/>
+	<classpathentry kind="src" path="eck8_source/chapter3"/>
+	<classpathentry kind="src" path="eck8_source/chapter4"/>
+	<classpathentry kind="src" path="eck8_source/chapter5"/>
+	<classpathentry kind="src" path="eck8_source/chapter6"/>
+	<classpathentry kind="src" path="eck8_source/chapter7"/>
+	<classpathentry kind="src" path="eck8_source/chapter8"/>
+	<classpathentry kind="src" path="eck8_source/chapter9"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
